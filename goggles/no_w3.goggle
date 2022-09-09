@@ -1,0 +1,6 @@
+! name: No W3 Schools
+! description: Rerank results to remove pages / threads hosted on W3 Schools.
+! public: False
+! author: Brian Sparker
+
+$discard,site=w3schools.com
